@@ -9,8 +9,8 @@
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addElement
-// @downloadURL https://update.greasyfork.org/scripts/483282/Desu%20X%20-%20Enhancement%20Script%20for%20Desuarchiveorg.user.js
-// @updateURL https://update.greasyfork.org/scripts/483282/Desu%20X%20-%20Enhancement%20Script%20for%20Desuarchiveorg.meta.js
+// @downloadURL https://raw.githubusercontent.com/ietzplay/archivedmoe/main/scriptupd
+// @updateURL https://raw.githubusercontent.com/ietzplay/archivedmoe/main/scriptupd
 // ==/UserScript==
 
 (function() {
