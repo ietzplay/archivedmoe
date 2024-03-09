@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name         Archived.moe Enhancer
+// @version      1.1
+// @description  lame
+// @author       ietzplay
+// @namespace    https://github.com/ietzplay/archivedmoe
+// @match        https://archived.moe/*
+// @grant        GM_addStyle
+// @grant        GM_xmlhttpRequest
+// @grant        GM_addElement
+// @downloadURL https://raw.githubusercontent.com/ietzplay/archivedmoe/main/scriptupd
+// @updateURL https://raw.githubusercontent.com/ietzplay/archivedmoe/main/scriptupd
+// ==/UserScript==
