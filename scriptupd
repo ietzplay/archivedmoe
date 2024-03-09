@@ -1,16 +1,16 @@
 // ==UserScript==
-// @name         archived.moe enhancer
-// @version      2.3
-// @description  Combines infinite scrolling, media preview on hover, download functionality, and gallery mode for desuarchive.org. Alt+G to activate gallery mode. Press 'S' while hovering over a thumbnail or in gallery mode to download media with the original filename.
-// @author       kpganon
+// @name         Archived.Moe Enhancer
+// @version      1.1
+// @description  lame
+// @author       ietzplay
 // @license      MIT
-// @namespace    https://github.com/kpg-anon/scripts
+// @namespace    https://github.com/ietzplay/archivedmoe
 // @match        https://archived.moe/*
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addElement
 // @downloadURL https://raw.githubusercontent.com/ietzplay/archivedmoe/main/scriptupd
-// @updateURL https://raw.githubusercontent.com/ietzplay/archivedmoe/main/scriptupd
+// @updateURL https://raw.githubusercontent.com/ietzplay/archivedmoe/main/meta
 // ==/UserScript==
 
 (function() {
